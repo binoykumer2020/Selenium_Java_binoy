@@ -38,4 +38,6 @@ public class AlertTests extends BaseTests {
         assertEquals(alertsPage.getResult(),"You entered: " +text ,"Incorrect");
     }
 
+    // hello how is things??
+
 }
